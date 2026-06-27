@@ -1,0 +1,70 @@
+ABC TECHNOLOGIES - PRICING GUIDE
+=================================
+
+1. SUBSCRIPTION PLANS
+----------------------
+
+STARTER PLAN - $29/month (or $290/year - save 17%)
+- Up to 5 users
+- 10 GB cloud storage
+- Basic reporting
+- Email support
+- Core business management features
+- Mobile app access
+
+PROFESSIONAL PLAN - $79/month (or $790/year - save 17%)
+- Up to 25 users
+- 50 GB cloud storage
+- Advanced reporting & analytics
+- Priority email & chat support
+- All Starter features
+- API access
+- Custom integrations
+- Automated workflows
+
+ENTERPRISE PLAN - $199/month (or $1,990/year - save 17%)
+- Unlimited users
+- 500 GB cloud storage
+- Custom reporting
+- 24/7 dedicated support
+- All Professional features
+- Custom SLA
+- On-premise deployment option
+- Dedicated account manager
+- SSO / SAML integration
+- Advanced security features
+
+2. ADD-ONS
+-----------
+- Extra Storage: $10/month per 10 GB
+- Additional Users (Starter): $5/user/month
+- Advanced Analytics Module: $30/month
+- Custom Branding: $20/month
+- Priority Support Upgrade: $25/month
+
+3. FREE TRIAL
+--------------
+- 14-day free trial available for all plans
+- No credit card required
+- Full feature access during trial
+- Data retained after trial ends if upgraded
+
+4. DISCOUNTS
+-------------
+- Non-profit organizations: 30% discount
+- Educational institutions: 40% discount
+- Startups (under 2 years): 20% discount for first year
+- Annual payment discount: 17% off monthly price
+
+5. BILLING
+-----------
+- Billing cycle: Monthly or Annual
+- Accepted payments: Credit card, Debit card, Bank transfer (Enterprise)
+- Invoices sent on billing date
+- Auto-renewal by default (can be disabled)
+
+6. PLAN UPGRADES/DOWNGRADES
+-----------------------------
+- Upgrades take effect immediately with prorated billing
+- Downgrades take effect at next billing cycle
+- No penalty for plan changes

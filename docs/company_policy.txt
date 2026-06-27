@@ -1,0 +1,52 @@
+ABC TECHNOLOGIES - COMPANY POLICY DOCUMENT
+==========================================
+
+1. REFUND POLICY
+----------------
+- Customers are eligible for a full refund within 30 days of purchase.
+- Refunds after 30 days are evaluated on a case-by-case basis.
+- Refund requests must be submitted through the support portal.
+- Approved refunds are processed within 7-10 business days.
+- Annual subscription refunds are prorated after the 30-day window.
+
+2. SUBSCRIPTION CANCELLATION POLICY
+-------------------------------------
+- Customers may cancel their subscription at any time.
+- Cancellation takes effect at the end of the current billing cycle.
+- No partial refunds for mid-cycle cancellations unless under 30-day policy.
+- Cancellation requests must be confirmed via email.
+
+3. ACCOUNT CLOSURE POLICY
+--------------------------
+- Account closure requests require identity verification.
+- All data is retained for 90 days post-closure before permanent deletion.
+- Customers can reactivate accounts within the 90-day retention period.
+- Account closure is irreversible after the retention period.
+
+4. COMPENSATION POLICY
+-----------------------
+- Compensation may be offered for verified service outages exceeding 4 hours.
+- Compensation is in the form of service credits, not cash.
+- Compensation requests must include outage reference number.
+- Maximum compensation is one month of subscription fee.
+
+5. ESCALATION POLICY
+---------------------
+- Customers may request escalation to management at any time.
+- Escalated issues are reviewed within 24 business hours.
+- A dedicated case manager is assigned for escalated cases.
+- Resolution timeline is communicated within 4 business hours of escalation.
+
+6. DATA PRIVACY POLICY
+-----------------------
+- Customer data is encrypted at rest and in transit.
+- Data is never sold to third parties.
+- Customers can request data export at any time.
+- GDPR and CCPA compliance is maintained.
+
+7. SERVICE LEVEL AGREEMENT (SLA)
+----------------------------------
+- Standard support response time: 24 hours.
+- Priority support response time: 4 hours.
+- Enterprise support response time: 1 hour.
+- System uptime guarantee: 99.9% monthly.

@@ -1,0 +1,88 @@
+ABC TECHNOLOGIES - TECHNICAL MANUAL
+=====================================
+
+1. SYSTEM REQUIREMENTS
+-----------------------
+- Operating System: Windows 10+, macOS 10.14+, Ubuntu 18.04+
+- Browser: Chrome 80+, Firefox 75+, Safari 13+, Edge 80+
+- Internet: Minimum 5 Mbps recommended
+- RAM: Minimum 4 GB recommended
+- Storage: 500 MB free space for desktop app
+
+2. INSTALLATION GUIDE
+----------------------
+Web Application:
+- No installation required; access via browser at app.abctech.com
+- Recommended: bookmark the URL for quick access
+
+Desktop Application:
+1. Download installer from abctech.com/download
+2. Run the installer as Administrator (Windows) or with sudo (Linux)
+3. Follow on-screen installation wizard
+4. Launch the application and log in
+
+Mobile Application:
+- iOS: Download from Apple App Store (requires iOS 13+)
+- Android: Download from Google Play Store (requires Android 8+)
+
+3. LOGIN ISSUES
+----------------
+- Forgotten Password: Click "Forgot Password" on the login page; a reset link is sent to registered email
+- Account Locked: Accounts are locked after 5 failed login attempts; contact support or wait 30 minutes
+- Two-Factor Authentication (2FA): Use the Authenticator app or SMS code sent to registered phone
+- SSO Login Issues: Ensure your organization's SSO provider is configured correctly in Admin Settings
+
+4. FILE UPLOAD TROUBLESHOOTING
+--------------------------------
+Common causes of file upload crashes:
+- File size exceeds the plan limit (Starter: 25MB, Pro: 100MB, Enterprise: 500MB)
+- Unsupported file format (supported: PDF, DOCX, XLSX, PNG, JPG, CSV, ZIP)
+- Slow internet connection causing timeout
+- Browser cache/cookies issue
+
+Solutions:
+1. Check file size and format before uploading
+2. Clear browser cache and cookies (Ctrl+Shift+Delete)
+3. Try a different browser or incognito mode
+4. Disable browser extensions temporarily
+5. Check internet connection speed
+6. If issue persists, use the desktop app for large file uploads
+
+5. APPLICATION ERRORS
+----------------------
+Error Code 500 (Internal Server Error):
+- Refresh the page; if persists, clear cache
+- Check status.abctech.com for outage notifications
+
+Error Code 403 (Forbidden):
+- Your account may not have permission for this action
+- Contact your account administrator
+
+Error Code 404 (Not Found):
+- The requested resource has been moved or deleted
+- Use the search function to find the content
+
+Error Code 429 (Too Many Requests):
+- API rate limit exceeded; wait 60 seconds before retrying
+
+6. CONFIGURATION ISSUES
+------------------------
+- API Key Setup: Navigate to Settings > Integrations > API Keys
+- Webhook Configuration: Settings > Integrations > Webhooks
+- Email Notifications: Settings > Notifications > Email Preferences
+- Custom Domain: Settings > Company > Custom Domain (Enterprise only)
+
+7. PERFORMANCE OPTIMIZATION
+-----------------------------
+- Clear browser cache regularly
+- Use wired internet connection for large data operations
+- Close unused browser tabs
+- Update browser to the latest version
+- Enable hardware acceleration in browser settings
+
+8. BACKUP & DATA RECOVERY
+---------------------------
+- Automatic daily backups for all plans
+- Manual backup export: Settings > Data > Export Backup
+- Recovery window: 30 days for Starter, 90 days for Pro, 365 days for Enterprise
+- Point-in-time recovery available for Enterprise plan
