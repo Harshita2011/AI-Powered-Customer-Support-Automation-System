@@ -61,7 +61,7 @@ logs/
 *.log
 
 # Local generated/exported artifacts
-Screenshots PDF.pdf
+
 {docs,src,diagrams}/
 
 # Jupyter notebooks
