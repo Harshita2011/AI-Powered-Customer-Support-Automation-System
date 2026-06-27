@@ -115,9 +115,6 @@ python demo.py
 
 For refund, cancellation, account closure, compensation, or escalation requests, the system automatically pauses and requires supervisor approval.
 
-- In **demo mode**, `AUTO_APPROVE = True` is set in `demo.py` to skip the interactive prompt.
-- In **production mode**, set `AUTO_APPROVE = False` in `src/human_loop.py` for an interactive console prompt, or integrate with your ticketing system.
-
 ---
 
 ## SQLite Memory Schema
